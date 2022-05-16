@@ -1,2 +1,2 @@
-# SnakeGame1
+# SnakeGame
 Created with CodeSandbox
